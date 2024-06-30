@@ -7,7 +7,7 @@ A huge thanks to [**Bills**](https://forums.pokemmo.com/index.php?%2Ftopic%2F161
 Set Slateport as Teleport heal **(TPH)** location. This is achieved by simply stepping inside the Pokémon Center.<br>TPH instructs the player to use Teleport to heal.
 
 | (#) **Leader** | **Moves** | **Details** |
-|:-:|-|-|
+|-|-|-|
 | 1. **Tate & Liza** | Tailwind, Explosion + x2 Eruption | / |
 | 2. **Wattson** | x2 Eruption | • Discharge Electrode out-speeds - paralyse sucks |
 | 3. **Flannery** | Shift Blastoises. Rain, Spout | / |
@@ -24,7 +24,7 @@ Set Slateport as Teleport heal **(TPH)** location. This is achieved by simply st
 Cycle + Surf from the port to the Gym. A wild encounter is **extremely** unlucky.
 
 | **Leader** | **Moves** | **Details** |
-|:-:|-|-|
+|-|-|-|
 | 8. **Surge** | Tailwind, Explosion + x2 Eruption | / |
 | 9. **Blaine** | Shift Blastoises. Rain, Spout | • Flareon lead means Typhlosions might be needed<br>• Eject Button, Thunderbolt Electrode out-speeds - Helping Hand at low HP |
 ||**Shift Typhlosions & TPH**||
@@ -38,7 +38,7 @@ Cycle + Surf from the port to the Gym. A wild encounter is **extremely** unlucky
 Cycle from the port to the Gym. Do not heal.
 
 | **Leader** | **Moves** | **Details** |
-|:-:|-|-|
+|-|-|-|
 | 13. **Burgh** | Tailwind, Explosion + x2 Eruption | / |
 | 14. **Brycen** | x2 Eruption | • Snow Cloakers do be annoying |
 ||**TPH**||
@@ -57,7 +57,7 @@ Cycle from the port to the Gym. Do not heal.
 Fly immediately to Eterna & cycle to the Gym. Do not heal.
 
 | **Leader** | **Moves** | **Details** |
-|:-:|-|-|
+|-|-|-|
 | 21. **Gardenia** | x2 Eruption | • Milotic is a roll to kill - accuracy drops suck |
 ||**TPH**||
 | 22. **Wake** | Tailwind, Explosion + x2 Eruption | • Kingdra is a roll to kill - accuracy drops suck |
@@ -72,7 +72,7 @@ Fly immediately to Eterna & cycle to the Gym. Do not heal.
 Fly immediately to Violet & cycle to the Gym. Do not heal.
 
 | **Leader** | **Moves** | **Details** |
-|:-:|-|-|
+|-|-|-|
 | 26. **Falkner** | Tailwind, Explosion + x2 Eruption | / |
 | 27. **Pryce** | x2 Eruption | • Snow Cloakers do be annoying |
 | 28. **Whitney** | Shift Blastoises. Rain, Spout. | • Minccino lead requires x2 Spout, then set Rain on turn 2 |
