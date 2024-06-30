@@ -69,7 +69,7 @@ Fly immediately to Eterna & cycle to the Gym. Do not heal.
 ||**TPH & go to Johto**||
 
 • **Johto:**<br>
-Fly immediately to Violet. Do not heal.
+Fly immediately to Violet & cycle to the Gym. Do not heal.
 
 | **Leader** | **Moves** | **Details** |
 |:-:|-|-|
