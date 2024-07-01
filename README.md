@@ -11,7 +11,7 @@ Set Slateport as Teleport heal **(TPH)** location. This is achieved by simply st
 | 1. **Tate & Liza** | Tailwind, Explosion + x2 Eruption | / |
 | 2. **Wattson** | x2 Eruption | • Discharge Electrode out-speeds - paralyse sucks |
 | 3. **Flannery** | Shift Blastoises. Rain, Spout | / |
-| 4. **Norman** | Rain, Spout | • Spinda lead requires x2 Spout, then set Rain on turn 2 |
+| 4. **Norman** | Rain, Spout | • Spinda lead requires x2 Spout, then set Rain on turn 2<br>• Rock Slide Slaking out-speeds - flinches suck<br>• Focus Sash, Seed Bomb Ambipom out-speeds |
 ||**Shift Typhlosions & TPH**||
 | 5. **Roxanne** | Tailwind, Explosion + x2 Eruption | / |
 ||**TPH**||
@@ -29,7 +29,7 @@ Cycle + Surf from the port to the Gym. A wild encounter is **extremely** unlucky
 | 9. **Blaine** | Shift Blastoises. Rain, Spout | • Flareon lead means Typhlosions might be needed<br>• Eject Button, Thunderbolt Electrode out-speeds - Helping Hand at low HP |
 ||**Shift Typhlosions & TPH**||
 | 10. **Brock** | Tailwind, Explosion + x2 Eruption | • Slowbro lead requires Eruption + Specs Spout |
-| 11. **Erica** | x2 Eruption | • Dragonite lead requires Specs Spout after a Typhlosion goes down<br>• Sludge Bomb Poison can really mess things up |
+| 11. **Erica** | x2 Eruption | • Dragonite lead requires Specs Spout after a Typhlosion goes down<br>• Sludge Bomb poison/crit can really mess things up |
 ||**TPH**||
 | 12. **Misty** | Tailwind, Explosion + x2 Eruption | • Kingdra lead is a roll to kill |
 ||**TPH & go to Unova**||
@@ -62,10 +62,10 @@ Fly immediately to Eterna & cycle to the Gym. Do not heal.
 ||**TPH**||
 | 22. **Wake** | Tailwind, Explosion + x2 Eruption | • Kingdra is a roll to kill - accuracy drops suck |
 ||**Shift Specs Spout into lead position**||
-| 23. **Candice** | Eruption, Spout | • Articuno & Froslass out-speed - can freeze with Blizzard<br>• Jynx lives and can freeze with Blizzard- Ice Heal and attack with Typhlosion<br>• Snow Cloakers do be annoying |
+| 23. **Candice** | Eruption, Spout | • Articuno & Froslass out-speed - can freeze with Blizzard<br>• Jynx lives and can freeze with Blizzard - Ice Heal and attack with Typhlosion<br>• Snow Cloakers do be annoying |
 ||**Shift Typhlosion & TPH**||
 | 24. **Volkner** | Tailwind, Explosion + x2 Eruption | / |
-| 25. **Maylene** | x2 Eruption + Specs Spout | • Mienshao lead has a Salac Berry, Rock Slide Sawk - flinches suck |
+| 25. **Maylene** | x2 Eruption + Specs Spout | • Mienshao lead has a Salac Berry, Sturdy, Rock Slide Sawk - flinches suck |
 ||**TPH & go to Johto**||
 
 • **Johto:**<br>
@@ -77,4 +77,4 @@ Fly immediately to Violet & cycle to the Gym. Do not heal.
 | 27. **Pryce** | x2 Eruption | • Snow Cloakers do be annoying |
 | 28. **Whitney** | Shift Blastoises. Rain, Spout. | • Minccino lead requires x2 Spout, then set Rain on turn 2 |
 | 29. **Chuck** | Tailwind, Explosion + x2 Eruption | / |
-| 30. **Morty** | x2 Eruption | • Cursed Body Gengar requires a switch to Blastoise and back if disabled<br>• Watch out for Cursed Body + Focus Sash 😃<br>• **Chandelure DOES NOT have Flash Fire**|
+| 30. **Morty** | x2 Eruption | • Cursed Body Gengar requires a switch to Blastoise and back if disabled<br>• Watch out for Cursed Body + Focus Sash 😃<br>• **Chandelure DOES NOT have Flash Fire**<br>• Mantine is a roll to kill|
