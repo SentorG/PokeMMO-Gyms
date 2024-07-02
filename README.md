@@ -29,7 +29,7 @@ Cycle + Surf from the port to the Gym. A wild encounter is **extremely** unlucky
 | 9. **Blaine** | Shift Blastoises. Rain, Spout | • Flareon lead means Typhlosions might be needed<br>• Eject Button, Thunderbolt Electrode out-speeds - Helping Hand at low HP |
 ||**Shift Typhlosions & TPH**||
 | 10. **Brock** | Tailwind, Explosion + x2 Eruption | • Slowbro lead requires Eruption + Specs Spout |
-| 11. **Erica** | x2 Eruption | • Dragonite lead requires Specs Spout after a Typhlosion goes down<br>• Sludge Bomb poison/crit can really mess things up |
+| 11. **Erica** | x2 Eruption | • Dragonite lead requires Specs Spout after a Typhlosion goes down<br>• Sludge Bomb poison/crit can really mess things up<br>• Rock Slide Shiftry out-speeds - flinches suck |
 ||**TPH**||
 | 12. **Misty** | Tailwind, Explosion + x2 Eruption | • Kingdra lead is a roll to kill |
 ||**TPH & go to Unova**||
@@ -50,7 +50,7 @@ Cycle from the port to the Gym. Do not heal.
 ||**Shift Typhlosions & TPH**||
 | 19. **Clay** | Tailwind, Explosion + x2 Eruption | • Fake Out Sableye does not matter |
 ||**TPH**||
-| 20. **Iris** | Tailwind, Explosion + x2 Eruption | / |
+| 20. **Iris** | Tailwind, Explosion + x2 Eruption | • Grass + Water Pledge halves speed for 4 turns |
 ||**Fly to Castelia & go to Sinnoh**||
 
 • **Sinnoh:**<br>
