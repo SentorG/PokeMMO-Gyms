@@ -9,7 +9,7 @@ Set Slateport as Teleport heal **(TPH)** location. This is achieved by simply st
 | (#) **Leader** | **Moves** | **Details** |
 |-|-|-|
 | 1. **Tate & Liza** | Tailwind, Explosion + x2 Eruption | / |
-| 2. **Wattson** | x2 Eruption | • Discharge Electrode out-speeds - paralyse sucks |
+| 2. **Wattson** | x2 Eruption | • Discharge Electrode out-speeds - paralyse sucks<br>• If this happens, you lose out on one or two Gyms.<br>**TPH, shift the Blastoises to the front and carry on.** |
 | 3. **Flannery** | Shift Blastoises. Rain, Spout | / |
 | 4. **Norman** | Rain, Spout | • Spinda lead requires x2 Spout, then set Rain on turn 2<br>• Rock Slide Slaking out-speeds - flinches suck<br>• Focus Sash, Seed Bomb Ambipom out-speeds |
 ||**Shift Typhlosions & TPH**||
@@ -74,7 +74,7 @@ Fly immediately to Violet & cycle to the Gym. Do not heal.
 | **Leader** | **Moves** | **Details** |
 |-|-|-|
 | 26. **Falkner** | Tailwind, Explosion + x2 Eruption | / |
-| 27. **Pryce** | x2 Eruption | • Snow Cloakers do be annoying |
-| 28. **Whitney** | Shift Blastoises. Rain, Spout. | • Minccino lead requires x2 Spout, then set Rain on turn 2 |
+| 27. **Pryce** | x2 Eruption | • Snow Cloakers do be annoying<br>• Tentacruel lives - crits suck |
+| 28. **Whitney** | Shift Blastoises. Rain, Spout. | • Minccino lead requires x2 Spout, then set Rain on turn 2<br>• Ambipom out-speeds - crits suck |
 | 29. **Chuck** | Tailwind, Explosion + x2 Eruption | / |
 | 30. **Morty** | x2 Eruption | • Cursed Body Gengar requires a switch to Blastoise and back if disabled<br>• Watch out for Cursed Body + Focus Sash 😃<br>• **Chandelure DOES NOT have Flash Fire**<br>• Mantine is a roll to kill|
