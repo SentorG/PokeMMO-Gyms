@@ -8,7 +8,7 @@ Set Slateport as Teleport heal **(TPH)** location. This is achieved by simply st
 
 | (#) **Leader** | **Moves** | **Details** |
 |-|-|-|
-| 1. **Tate & Liza** | Tailwind, Explosion + x2 Eruption | • Wobbuffet lead is GG, say goodbye to a few gyms<br>**TPH, shift the Typhlosions to the front and carry on** |
+| 1. **Tate & Liza** | Tailwind, Explosion + x2 Eruption | • Wobbuffet lead is GG, say goodbye to a few Gyms<br>**TPH, shift the Typhlosions to the front and carry on** |
 | 2. **Wattson** | x2 Eruption | • Discharge Electrode out-speeds - paralyse sucks<br>• If this happens, you lose out on one or two Gyms<br>**TPH, shift the Blastoises to the front and carry on** |
 | 3. **Flannery** | Shift Blastoises. Rain, Spout | / |
 | 4. **Norman** | Rain, Spout | • Spinda lead requires x2 Spout, then set Rain on turn 2<br>• Rock Slide Slaking out-speeds - flinches suck<br>• Focus Sash, Seed Bomb Ambipom out-speeds |
