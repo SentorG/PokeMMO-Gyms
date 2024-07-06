@@ -46,7 +46,7 @@ Cycle from the port to the Gym. Do not heal.
 | 16. **Cilan** | x2 Eruption | / |
 | 17. **Chili** | Shift Blastoises. Rain, Spout | / |
 ||**TPH**||
-| 18. **Elesa** | Tailwind, Explosion + Eruption | • Specs Spout after a Typhlosion goes down (not likely) |
+| 18. **Elesa** | Tailwind, Explosion + Eruption | • Milotic is a roll to kill - crits suck<br>• Specs Spout after a Typhlosion goes down (not likely) |
 ||**Shift Typhlosions & TPH**||
 | 19. **Clay** | Tailwind, Explosion + x2 Eruption | • Fake Out Sableye does not matter |
 ||**TPH**||
