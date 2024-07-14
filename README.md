@@ -10,7 +10,7 @@ Set Slateport as Teleport heal **(TPH)** location. This is achieved by simply st
 |-|-|-|
 | 1. **Tate & Liza** | Tailwind, Explosion + x2 Eruption | • **Do not use riches charms yet!!** |
 | 2. **Wattson** | x2 Eruption | • **Pop riches charm now!**<br>• Discharge Electrode out-speeds - paralyse sucks<br>If this happens, you lose out on one or two Gyms<br>**TPH, shift the Blastoises to the front and carry on** |
-| 3. **Flannery** | Shift Blastoises. Rain, Spout | / |
+| 3. **Flannery** | **Shift Blastoises.** Rain, Spout | / |
 | 4. **Norman** | Rain, Spout | • Spinda lead requires x2 Spout, then set Rain on turn 2<br>• Rock Slide Slaking out-speeds - flinches suck<br>• Focus Sash, Seed Bomb Ambipom out-speeds - crits suck |
 ||**Shift Typhlosions & TPH**||
 | 5. **Winona** | Tailwind, Explosion + x2 Eruption | / |
@@ -26,7 +26,7 @@ Cycle + Surf from the port to the Gym. A wild encounter is **extremely** unlucky
 | **Leader** | **Moves** | **Details** |
 |-|-|-|
 | 8. **Surge** | Tailwind, Explosion + x2 Eruption | / |
-| 9. **Blaine** | Shift Blastoises. Rain, Spout | • SolarBeam Charizard out-speeds - crits suck<br>• Flareon lead means Typhlosions might be needed<br>• Eject Button, Thunderbolt Electrode out-speeds - Helping Hand at low HP |
+| 9. **Blaine** | **Shift Blastoises.** Rain, Spout | • SolarBeam Charizard out-speeds - crits suck<br>• Flareon lead means Typhlosions might be needed<br>• Eject Button, Thunderbolt Electrode out-speeds - Helping Hand at low HP |
 ||**Shift Typhlosions & TPH**||
 | 10. **Brock** | Tailwind, Explosion + x2 Eruption | • Slowbro lead requires Eruption + Specs Spout |
 | 11. **Erica** | x2 Eruption | • Dragonite lead requires Specs Spout after a Typhlosion goes down<br>• Sludge Bomb poison + crit can really mess this up<br>• Rock Slide Shiftry out-speeds - flinches suck |
@@ -44,7 +44,7 @@ Cycle from the port to the Gym. Do not heal.
 ||**TPH**||
 | 15. **Cress** | Tailwind, Explosion + x2 Eruption | / |
 | 16. **Cilan** | x2 Eruption | / |
-| 17. **Chili** | Shift Blastoises. Rain, Spout | / |
+| 17. **Chili** | **Shift Blastoises.** Rain, Spout | / |
 ||**TPH**||
 | 18. **Elesa** | Tailwind, Explosion + Eruption | • Milotic is a roll to kill - crits suck<br>• Specs Spout after a Typhlosion goes down (not likely) |
 ||**Shift Typhlosions & TPH**||
@@ -75,7 +75,7 @@ Fly immediately to Violet & cycle to the Gym. Do not heal.
 |-|-|-|
 | 26. **Falkner** | Tailwind, Explosion + x2 Eruption | / |
 | 27. **Pryce** | x2 Eruption | • Snow Cloakers do be annoying<br>• Tentacruel lives - crits suck |
-| 28. **Whitney** | Shift Blastoises. Rain, Spout. | • Minccino lead requires x2 Spout, then set Rain on turn 2<br>• Ambipom out-speeds - crits suck |
+| 28. **Whitney** | **Shift Blastoises.** Rain, Spout. | • Minccino lead requires x2 Spout, then set Rain on turn 2<br>• Ambipom out-speeds - crits suck |
 | 29. **Chuck** | Tailwind, Explosion + x2 Eruption | / |
 | 30. **Morty** | x2 Eruption | • Cursed Body Gengar requires a switch to Blastoise and back if disabled<br>• Watch out for Cursed Body + Focus Sash 😃<br>• **Chandelure DOES NOT have Flash Fire**<br>• Mantine lives (as far as I've seen) |
 ||**TPH**||
