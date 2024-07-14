@@ -26,7 +26,7 @@ Cycle + Surf from the port to the Gym. A wild encounter is **extremely** unlucky
 | **Leader** | **Moves** | **Details** |
 |-|-|-|
 | 8. **Surge** | Tailwind, Explosion + x2 Eruption | / |
-| 9. **Blaine** | Shift Blastoises. Rain, Spout | • Flareon lead means Typhlosions might be needed<br>• Eject Button, Thunderbolt Electrode out-speeds - Helping Hand at low HP |
+| 9. **Blaine** | Shift Blastoises. Rain, Spout | • SolarBeam Charizard out-speeds - crits suck<br>• Flareon lead means Typhlosions might be needed<br>• Eject Button, Thunderbolt Electrode out-speeds - Helping Hand at low HP |
 ||**Shift Typhlosions & TPH**||
 | 10. **Brock** | Tailwind, Explosion + x2 Eruption | • Slowbro lead requires Eruption + Specs Spout |
 | 11. **Erica** | x2 Eruption | • Dragonite lead requires Specs Spout after a Typhlosion goes down<br>• Sludge Bomb poison + crit can really mess this up<br>• Rock Slide Shiftry out-speeds - flinches suck |
