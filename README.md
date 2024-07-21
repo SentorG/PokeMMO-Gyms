@@ -65,7 +65,7 @@ Fly immediately to Eterna & cycle to the Gym. Do not heal.
 | 23. **Candice** | Eruption, Spout | • Articuno & Froslass out-speed - can freeze with Blizzard<br>• Jynx lives and can freeze with Blizzard - Ice Heal and attack with Typhlosion<br>• Snow Cloakers do be annoying |
 ||**TPH**||
 | 24. **Volkner** | Tailwind, Explosion + x2 Eruption | / |
-| 25. **Maylene** | x2 Eruption + Specs Spout | • Mienshao lead has a Salac Berry, Sturdy, Rock Slide Sawk - flinches suck |
+| 25. **Maylene** | Eruption + Specs Spout | • Mienshao lead has a Salac Berry, Sturdy, Rock Slide Sawk - flinches suck |
 ||**Shift Typhlosion, TPH & go to Johto**||
 
 • **Johto:**<br>
