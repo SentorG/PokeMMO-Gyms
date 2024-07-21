@@ -21,12 +21,12 @@ Set Slateport as Teleport heal **(TPH)** location. This is achieved by simply st
 ||**TPH & go to Kanto**||
 
 • **Kanto:**<br>
-Cycle + Surf from the port to the Gym. A wild encounter is **extremely** unlucky.
+Cycle + Surf from the port to the Gym. A wild encounter is **extremely** unlucky. Swap a Lv100 to the front to successfully run or use a Repel.
 
 | **Leader** | **Moves** | **Details** |
 |-|-|-|
 | 8. **Surge** | Tailwind, Explosion + x2 Eruption | / |
-| 9. **Blaine** | **Shift Blastoises.** Rain, Spout | • SolarBeam Charizard out-speeds - crits suck<br>• Flareon lead means Typhlosions might be needed<br>• Eject Button, Thunderbolt Electrode out-speeds - Helping Hand at low HP |
+| 9. **Blaine** | **Shift Blastoises.** Rain, Spout | • SolarBeam Charizard out-speeds - crits suck<br>• Moltres & Flareon lead means Typhlosions might be needed<br>• Eject Button, Thunderbolt Electrode out-speeds - Helping Hand at low HP |
 ||**Shift Typhlosions & TPH**||
 | 10. **Brock** | Tailwind, Explosion + x2 Eruption | • Slowbro lead requires Eruption + Specs Spout |
 | 11. **Erica** | x2 Eruption | • Dragonite lead requires Specs Spout after a Typhlosion goes down<br>• Sludge Bomb poison + crit can really mess this up<br>• Rock Slide Shiftry out-speeds - flinches suck |
@@ -66,7 +66,7 @@ Fly immediately to Eterna & cycle to the Gym. Do not heal.
 ||**TPH**||
 | 24. **Volkner** | Tailwind, Explosion + x2 Eruption | / |
 | 25. **Maylene** | x2 Eruption + Specs Spout | • Mienshao lead has a Salac Berry, Sturdy, Rock Slide Sawk - flinches suck |
-||**Shift Typhlosions, TPH & go to Johto**||
+||**Shift Typhlosion, TPH & go to Johto**||
 
 • **Johto:**<br>
 Fly immediately to Violet & cycle to the Gym. Do not heal.
@@ -79,4 +79,4 @@ Fly immediately to Violet & cycle to the Gym. Do not heal.
 | 29. **Chuck** | Tailwind, Explosion + x2 Eruption | / |
 | 30. **Morty** | x2 Eruption | • Cursed Body Gengar requires a switch to Blastoise and back if disabled<br>• Watch out for Cursed Body + Focus Sash 😃<br>• **Chandelure DOES NOT have Flash Fire**<br>• Mantine lives (as far as I've seen) |
 ||**TPH**||
-| 31. **Bugsy** | Tailwind, Explosion + Eruption, Specs Spout | • **Still testing variations** |
+| 31. **Bugsy** | Tailwind, Explosion + Eruption, Specs Spout | / |
