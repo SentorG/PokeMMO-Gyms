@@ -21,7 +21,7 @@ Set Slateport as Teleport heal **(TPH)** location. This is achieved by simply st
 ||**TPH & go to Kanto**||
 
 • **Kanto:**<br>
-Cycle + Surf from the port to the Gym. A wild encounter is **extremely** unlucky. Swap a Lv100 to the front to successfully run or use a Repel.
+Cycle + Surf from the port to the Gym. A wild encounter is **extremely** unlucky. Swap a Lv100 to the front to successfully run.
 
 | **Leader** | **Moves** | **Details** |
 |-|-|-|
