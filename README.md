@@ -28,10 +28,10 @@ Cycle + Surf from the port to the Gym. A wild encounter is **extremely** unlucky
 | 8. **Surge** | Tailwind, Explosion + x2 Eruption | / |
 | 9. **Blaine** | **Shift Blastoises.** Rain, Spout | • SolarBeam Charizard out-speeds - crits suck<br>• Moltres & Flareon lead means Typhlosions might be needed<br>• Eject Button, Thunderbolt Electrode out-speeds - Helping Hand at low HP |
 ||**Shift Typhlosions & TPH**||
-| 10. **Brock** | Tailwind, Explosion + x2 Eruption | • Slowbro lead requires Eruption + Specs Spout |
+| 10. **Brock** | Tailwind, Explosion + x2 Eruption | • Slowbro lead requires Eruption + Specs Spout - use Memento on Aerodactyl (sash) |
 | 11. **Erica** | x2 Eruption | • Dragonite lead requires Specs Spout after a Typhlosion goes down<br>• Sludge Bomb poison + crit can really mess this up<br>• Rock Slide Shiftry out-speeds - flinches suck |
 ||**TPH**||
-| 12. **Misty** | Tailwind, Explosion + x2 Eruption | • Kingdra lead is a roll to kill |
+| 12. **Misty** | Tailwind, Explosion + x2 Eruption | • Kingdra lead is a roll to kill<br>• Floatzel lead requires Specs Spout |
 ||**TPH & go to Unova**||
 
 • **Unova:**<br>
@@ -46,11 +46,11 @@ Cycle from the port to the Gym. Do not heal.
 | 16. **Cilan** | x2 Eruption | / |
 | 17. **Chili** | **Shift Blastoises.** Rain, Spout | / |
 ||**TPH**||
-| 18. **Elesa** | Tailwind, Explosion + Eruption | • Milotic is a roll to kill - crits suck<br>• Specs Spout after a Typhlosion goes down (not likely) |
+| 18. **Elesa** | Tailwind, Explosion + Eruption | • Milotic lives - crits suck<br>• Specs Spout after a Typhlosion goes down (not likely) |
 ||**Shift Typhlosions & TPH**||
-| 19. **Clay** | Tailwind, Explosion + x2 Eruption | / |
+| 19. **Clay** | Tailwind, Explosion + x2 Eruption | • Fake Out on Cottonee does not matter |
 ||**TPH**||
-| 20. **Iris** | Tailwind, Explosion + x2 Eruption | • Grass + Water Pledge halves speed for 4 turns |
+| 20. **Iris** | Tailwind, Explosion + x2 Eruption | • Grass + Water Pledge halves speed for 4 turns = good chance to lose. Just move on |
 ||**Fly to Castelia & go to Sinnoh**||
 
 • **Sinnoh:**<br>
@@ -77,6 +77,6 @@ Fly immediately to Violet & cycle to the Gym. Do not heal.
 | 27. **Pryce** | x2 Eruption | • Snow Cloakers do be annoying<br>• Tentacruel lives - crits suck |
 | 28. **Whitney** | **Shift Blastoises.** Rain, Spout. | • Minccino lead requires x2 Spout, then set Rain on turn 2<br>• Ambipom out-speeds - crits suck |
 | 29. **Chuck** | Tailwind, Explosion + x2 Eruption | / |
-| 30. **Morty** | x2 Eruption | • Cursed Body Gengar requires a switch to Blastoise and back if disabled<br>• Watch out for Cursed Body + Focus Sash 😃<br>• **Chandelure DOES NOT have Flash Fire**<br>• Mantine lives (as far as I've seen) |
+| 30. **Morty** | x2 Eruption | • Cursed Body Gengar requires a switch to Blastoise and back if disabled<br>• Watch out for Cursed Body + Focus Sash 😃<br>• **Chandelure DOES NOT have Flash Fire**<br>• Mantine lives - crits suck |
 ||**TPH**||
 | 31. **Bugsy** | Tailwind, Explosion + Eruption, Specs Spout | / |
