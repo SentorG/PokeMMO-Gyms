@@ -25,7 +25,7 @@ Cycle + Surf from the port to the Gym. A wild encounter is **extremely** unlucky
 
 | **Leader** | **Moves** | **Details** |
 |-|-|-|
-| 8. **Surge** | Tailwind, Explosion + x2 Eruption | / |
+| 8. **Surge** | Tailwind, Explosion + x2 Eruption | • Pikachu can use Fake Out on Cottonee (unsure of outcome) |
 | 9. **Blaine** | **Shift Blastoises.** Rain, Spout | • SolarBeam Charizard out-speeds - crits suck<br>• Moltres & Flareon lead means Typhlosions might be needed<br>• Eject Button, Thunderbolt Electrode out-speeds - Helping Hand at low HP |
 ||**Shift Typhlosions & TPH**||
 | 10. **Brock** | Tailwind, Explosion + x2 Eruption | • Slowbro lead requires Eruption + Specs Spout - use Memento on Aerodactyl if required (Focus Sash) |
@@ -62,7 +62,7 @@ Fly immediately to Eterna & cycle to the Gym. Do not heal.
 ||**TPH**||
 | 22. **Wake** | Tailwind, Explosion + x2 Eruption | • Kingdra is a roll to kill - accuracy drops suck |
 ||**Shift Specs Spout into lead position**||
-| 23. **Candice** | *(Full HP)* Eruption, Spout | • Articuno & Froslass out-speed - can freeze with Blizzard<br>• Jynx lives and can freeze with Blizzard - Ice Heal and attack with Typhlosion<br>• Snow Cloakers do be annoying |
+| 23. **Candice** | *(Full HP)* Eruption, Spout | • Articuno & Froslass out-speed - can freeze with Blizzard or paralyse with Thunderbolt<br>• Jynx lives and can freeze with Blizzard - Ice Heal and attack with Typhlosion<br>• Snow Cloakers do be annoying |
 ||**TPH**||
 | 24. **Volkner** | Tailwind, Explosion + x2 Eruption | • Fake Out Raichu on Cottonee means Electric Gem Thunder Electrode out-speeds - crits or paralysis sucks<br>• Memento Pelipper if required (Focus Sash) |
 | 25. **Maylene** | *(Full HP)* Eruption + Specs Spout | • Mienshao lead has a Salac Berry, Sturdy, Rock Slide Sawk - flinches suck |
@@ -77,6 +77,6 @@ Fly immediately to Violet & cycle to the Gym. Do not heal.
 | 27. **Pryce** | x2 Eruption | • Snow Cloakers do be annoying<br>• Tentacruel lives - crits suck |
 | 28. **Whitney** | **Shift Blastoises.** Rain, Spout. | • Minccino or Ambipom lead requires x2 Spout, **DO NOT USE RAIN** |
 | 29. **Chuck** | Tailwind, Explosion + x2 Eruption | / |
-| 30. **Morty** | x2 Eruption | • Cursed Body Gengar requires a switch to Blastoise and back if disabled<br>• Watch out for Cursed Body + Focus Sash 😃<br>• **Chandelure DOES NOT have Flash Fire**<br>• Mantine lives - crits suck |
+| 30. **Morty** | x2 Eruption | • Cursed Body Gengar requires a switch to Blastoise and back if disabled<br>• Watch out for Cursed Body + Focus Sash 😃<br>• **Chandelure DOES NOT have Flash Fire**<br>• Mantine is a roll to kill - crits suck |
 ||**TPH**||
 | 31. **Bugsy** | Tailwind, Explosion + Eruption, Specs Spout | / |
