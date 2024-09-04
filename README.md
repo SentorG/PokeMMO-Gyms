@@ -9,7 +9,7 @@ Set Slateport as Teleport heal **(TPH)** location. This is achieved by simply st
 | (#) **Leader** | **Moves** | **Details** |
 |-|-|-|
 | 1. **Tate & Liza** | Tailwind, Explosion + x2 Eruption | • **Do not use riches charms yet!!** |
-| 2. **Wattson** | x2 Eruption | • **Pop riches charm now!**<br>• Discharge Electrode out-speeds - paralyse sucks<br>If this happens, you lose out on one or two Gyms<br>**TPH, shift the Blastoises to the front and carry on** |
+| 2. **Wattson** | x2 Eruption | • **Pop riches charm now!**<br>• Pikachu lead has a Discharge Electrode which out-speeds - paralyse sucks<br>If this happens, you lose out on one or two Gyms<br>**TPH, shift the Blastoises to the front and carry on** |
 | 3. **Flannery** | **Shift Blastoises.** Rain, Spout | / |
 | 4. **Norman** | Rain, Spout | • Spinda lead requires x2 Spout, then set Rain on turn 2<br>• Rock Slide Slaking out-speeds - flinches suck<br>• Focus Sash, Seed Bomb Ambipom out-speeds - crits suck |
 ||**Shift Typhlosions & TPH**||
@@ -35,7 +35,7 @@ Cycle + Surf from the port to the Gym. A wild encounter is **extremely** unlucky
 ||**TPH & go to Unova**||
 
 • **Unova:**<br>
-Cycle from the port to the Gym. Do not heal.
+Cycle from the port to the Gym.
 
 | **Leader** | **Moves** | **Details** |
 |-|-|-|
@@ -46,7 +46,7 @@ Cycle from the port to the Gym. Do not heal.
 | 16. **Cilan** | x2 Eruption | / |
 | 17. **Chili** | **Shift Blastoises.** Rain, Spout | / |
 ||**TPH**||
-| 18. **Elesa** | Tailwind, Explosion + Eruption | • Milotic lives - crits suck<br>• Specs Spout after a Typhlosion goes down (not likely) |
+| 18. **Elesa** | Tailwind, Explosion + Eruption, Specs Spout | • Milotic lives - crits suck<br> |
 ||**Shift Typhlosions & TPH**||
 | 19. **Clay** | Tailwind, Explosion + x2 Eruption | • Fake Out Sableye on Cottonee does not matter |
 ||**TPH**||
@@ -62,7 +62,7 @@ Fly immediately to Eterna & cycle to the Gym. Do not heal.
 ||**TPH**||
 | 22. **Wake** | Tailwind, Explosion + x2 Eruption | • Kingdra is a roll to kill - accuracy drops suck |
 ||**Shift Specs Spout into lead position**||
-| 23. **Candice** | *(Full HP)* Eruption, Spout | • Articuno & Froslass out-speed - can freeze with Blizzard or paralyse with Thunderbolt<br>• Jynx lives and can freeze with Blizzard - Ice Heal and attack with Typhlosion<br>• Snow Cloakers do be annoying |
+| 23. **Candice** | *(Full HP)* Eruption, Specs Spout | • Articuno & Froslass out-speed - can freeze with Blizzard or paralyse with Thunderbolt<br>• Jynx lives and can freeze with Blizzard - Ice Heal and attack with Typhlosion<br>• Snow Cloakers do be annoying |
 ||**TPH**||
 | 24. **Volkner** | Tailwind, Explosion + x2 Eruption | • Fake Out Raichu on Cottonee means Electric Gem Thunder Electrode out-speeds - crits or paralysis sucks<br>• Memento Pelipper if required (Focus Sash) |
 | 25. **Maylene** | *(Full HP)* Eruption + Specs Spout | • Mienshao lead has a Salac Berry, Sturdy, Rock Slide Sawk - flinches suck |
