@@ -25,7 +25,7 @@ Cycle + Surf from the port to the Gym. A wild encounter is **extremely** unlucky
 
 | **Leader** | **Moves** | **Details** |
 |-|-|-|
-| 8. **Surge** | Tailwind, Explosion + x2 Eruption | • Pikachu can use Fake Out on Cottonee (unsure of outcome) |
+| 8. **Surge** | Tailwind, Explosion + x2 Eruption | • Fake Out Pikachu on Cottonee does not matter  |
 | 9. **Blaine** | **Shift Blastoises.** Rain, Spout | • SolarBeam Charizard out-speeds - crits suck<br>• Moltres & Flareon lead means Typhlosions might be needed<br>• Eject Button, Thunderbolt Electrode out-speeds - Helping Hand at low HP |
 ||**Shift Typhlosions & TPH**||
 | 10. **Brock** | Tailwind, Explosion + x2 Eruption | • Slowbro lead requires Eruption + Specs Spout - use Memento on Aerodactyl if required (Focus Sash) |
