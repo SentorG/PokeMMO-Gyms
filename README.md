@@ -73,7 +73,7 @@ Fly immediately to Violet & cycle to the Gym. Do not heal.
 
 | **Leader** | **Moves** | **Details** |
 |-|-|-|
-| 26. **Falkner** | Tailwind, Explosion + x2 Eruption | / |
+| 26. **Falkner** | Tailwind, Explosion + x2 Eruption | • U-Turn Pelipper can mess up the end setting rain back up |
 | 27. **Pryce** | x2 Eruption | • Snow Cloakers do be annoying<br>• Tentacruel lives - crits suck |
 | 28. **Whitney** | **Shift Blastoises.** Rain, Spout. | • Minccino or Ambipom lead requires x2 Spout, **DO NOT USE RAIN** |
 | 29. **Chuck** | Tailwind, Explosion + x2 Eruption | / |
