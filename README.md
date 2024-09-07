@@ -31,7 +31,7 @@ Cycle + Surf from the port to the Gym. A wild encounter is **extremely** unlucky
 | 10. **Brock** | Tailwind, Explosion + x2 Eruption | • Slowbro lead requires Eruption + Specs Spout - use Memento on Aerodactyl if required (Focus Sash) |
 | 11. **Erica** | *(Full HP)* x2 Eruption | • Dragonite lead requires Specs Spout after a Typhlosion goes down<br>• Sludge Bomb poison + crit can really mess this up<br>• Rock Slide Shiftry out-speeds - flinches suck |
 ||**TPH**||
-| 12. **Misty** | Tailwind, Explosion + x2 Eruption | • Kingdra lead is a roll to kill<br>• Floatzel lead may require Specs Spout |
+| 12. **Misty** | Tailwind, Explosion + x2 Eruption | • Kingdra lead is a roll to kill<br>• Floatzel lead may require Specs Spout • Lovely Kiss Poliwrath lead can put Torkoal to sleep and Ice Beam Politoed will take out one side - use on Memento Poliwrath if required |
 ||**TPH & go to Unova**||
 
 • **Unova:**<br>
