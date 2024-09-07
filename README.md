@@ -74,7 +74,7 @@ Fly immediately to Violet & cycle to the Gym. Do not heal.
 | **Leader** | **Moves** | **Details** |
 |-|-|-|
 | 26. **Falkner** | Tailwind, Explosion + x2 Eruption | • U-Turn Pelipper can mess up the end by setting rain again |
-| 27. **Pryce** | x2 Eruption | • Snow Cloakers do be annoying<br>• Tentacruel lives - crits suck |
+| 27. **Pryce** | *(Full HP)* x2 Eruption | • Snow Cloakers do be annoying<br>• Tentacruel lives - crits suck |
 | 28. **Whitney** | **Shift Blastoises.** Rain, Spout. | • Minccino or Ambipom lead requires x2 Spout, **DO NOT USE RAIN** |
 | 29. **Chuck** | Tailwind, Explosion + x2 Eruption | / |
 | 30. **Morty** | x2 Eruption | • Cursed Body Gengar requires a switch to Blastoise and back if disabled<br>• Watch out for Cursed Body + Focus Sash 😃<br>• **Chandelure DOES NOT have Flash Fire**<br>• Mantine is a roll to kill - crits suck |
