@@ -46,7 +46,7 @@ Cycle from the port to the Gym.
 | 16. **Cilan** | x2 Eruption | / |
 | 17. **Chili** | **Shift Blastoises.** Rain, Spout | / |
 ||**TPH**||
-| 18. **Elesa** | Tailwind, Explosion + Eruption, Specs Spout | • Milotic lives - crits suck<br> |
+| 18. **Elesa** | Tailwind, Explosion + Eruption, Specs Spout | • If Milotic, x2 Eruption |
 ||**Shift Typhlosions & TPH**||
 | 19. **Clay** | Tailwind, Explosion + x2 Eruption | • Fake Out Sableye on Cottonee does not matter |
 ||**TPH**||
